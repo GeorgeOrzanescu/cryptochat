@@ -1,7 +1,7 @@
 # cryptochat
 A fun freelance crypto project ! 
 
-Django-backend :  
+Summary:
   1. django rest framework
   2. Celery for automatic scraping
   3. Beautiful Soup for scraping crypto data
