@@ -1,0 +1,15 @@
+.header {
+  width: 80%;
+  background-color: #40bf40;
+  text-align: center;
+  margin: 0 auto;
+  font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  font-size: 20px;
+}
+
+div .log-out {
+  padding: 10px;
+}

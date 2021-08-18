@@ -1,0 +1,8 @@
+div h1 {
+  text-align: center;
+}
+
+div .crypto {
+  float: left;
+  padding: 5%;
+}
